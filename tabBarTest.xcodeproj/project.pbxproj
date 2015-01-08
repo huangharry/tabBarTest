@@ -15,6 +15,7 @@
 		0390BA261A5D731D0059AF33 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0390BA241A5D731D0059AF33 /* LaunchScreen.xib */; };
 		0390BA321A5D731D0059AF33 /* tabBarTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0390BA311A5D731D0059AF33 /* tabBarTestTests.swift */; };
 		0390BA3C1A5D753A0059AF33 /* FirstTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0390BA3B1A5D753A0059AF33 /* FirstTableViewController.swift */; };
+		0390BA3E1A5D7D560059AF33 /* SecondTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0390BA3D1A5D7D560059AF33 /* SecondTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		0390BA301A5D731D0059AF33 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0390BA311A5D731D0059AF33 /* tabBarTestTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tabBarTestTests.swift; sourceTree = "<group>"; };
 		0390BA3B1A5D753A0059AF33 /* FirstTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FirstTableViewController.swift; sourceTree = "<group>"; };
+		0390BA3D1A5D7D560059AF33 /* SecondTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				0390BA1B1A5D731D0059AF33 /* FirstViewController.swift */,
 				0390BA3B1A5D753A0059AF33 /* FirstTableViewController.swift */,
 				0390BA1D1A5D731D0059AF33 /* SecondViewController.swift */,
+				0390BA3D1A5D7D560059AF33 /* SecondTableViewController.swift */,
 				0390BA1F1A5D731D0059AF33 /* Main.storyboard */,
 				0390BA221A5D731D0059AF33 /* Images.xcassets */,
 				0390BA241A5D731D0059AF33 /* LaunchScreen.xib */,
@@ -220,6 +223,7 @@
 			files = (
 				0390BA3C1A5D753A0059AF33 /* FirstTableViewController.swift in Sources */,
 				0390BA1E1A5D731D0059AF33 /* SecondViewController.swift in Sources */,
+				0390BA3E1A5D7D560059AF33 /* SecondTableViewController.swift in Sources */,
 				0390BA1A1A5D731D0059AF33 /* AppDelegate.swift in Sources */,
 				0390BA1C1A5D731D0059AF33 /* FirstViewController.swift in Sources */,
 			);
